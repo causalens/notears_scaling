@@ -1,3 +1,7 @@
+"""
+based on https://github.com/xunzheng/notears
+"""
+
 import igraph as ig
 import matplotlib.pyplot as plt
 import numpy as np
